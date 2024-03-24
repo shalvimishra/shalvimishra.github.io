@@ -2,12 +2,12 @@
   "private": true,
   "scripts": {
     "build": "nuxt build && nuxt generate",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "cname": "echo 'shalvimishra.github.io' >> ./dist/CNAME"
+    "cname": "echo 'shalvimishra.github.io' >> ./dist/CNAME",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "gh-pages": "^6.1.1",

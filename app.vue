@@ -39,7 +39,7 @@ export default {
     // Replace the current URL with a new one
   },
   mounted() {
-    window.location.replace("https://eason.phd");
+    window.location.replace("https://shalvimishra.github.io");
   },
 };
 </script>

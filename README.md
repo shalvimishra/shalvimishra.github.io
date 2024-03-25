@@ -2,7 +2,7 @@
 
 An Easy-to-use Nuxt template to build your Academic CV Website.
 
-Demo: https://eason.best
+Demo: https://shalvimishra.github.io
 # How to use?
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
